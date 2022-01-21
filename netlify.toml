@@ -1,3 +1,9 @@
 [build]
 publish = "public"
 command = "./stackbit-build.sh"
+
+[[redirects]]
+from = “discord.opensauced.pizza”
+to = “https://discord.com/invite/U2peSNf23P”
+status = 200
+force = true
